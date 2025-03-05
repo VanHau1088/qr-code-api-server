@@ -26,7 +26,7 @@ API server cho việc tạo và quản lý mã QR động với nhiều tính n�
 
 ## Cài đặt
 
-1. Clone repository Dự án chínhchính:
+1. Clone repository Dự án chính:
 ```bash
 https://github.com/VanHau1088/QR-code-generator-app.git
 
